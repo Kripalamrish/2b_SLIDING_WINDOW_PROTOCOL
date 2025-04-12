@@ -42,11 +42,10 @@ while True:
 
 ## OUPUT
 Sender:
-![Screenshot 2025-04-12 142714](https://github.com/user-attachments/assets/e1358c72-a090-4938-8be5-89a32a90665a)
-
-Receiver:
 ![Screenshot 2025-04-12 142703](https://github.com/user-attachments/assets/78309c9f-c2af-4d82-a0fc-491c0f2f110d)
 
+Receiver:
+![Screenshot 2025-04-12 142714](https://github.com/user-attachments/assets/e1358c72-a090-4938-8be5-89a32a90665a)
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed
